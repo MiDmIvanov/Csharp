@@ -1,0 +1,15 @@
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\bin\Debug\net6.0\Csharp.exe
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\bin\Debug\net6.0\Csharp.deps.json
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\bin\Debug\net6.0\Csharp.runtimeconfig.json
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\bin\Debug\net6.0\Csharp.dll
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\bin\Debug\net6.0\Csharp.pdb
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfo.cs
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.dll
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\refint\Csharp.dll
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.pdb
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\Csharp.genruntimeconfig.cache
+C:\Users\mikhd\Рабочий стол\Обучение\С#\Лекция1\Csharp\obj\Debug\net6.0\ref\Csharp.dll
